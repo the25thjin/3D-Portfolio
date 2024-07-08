@@ -17,6 +17,7 @@ import {
     docker,
     meta,
     starbucks,
+    aadi,
     tesla,
     shopify,
     carrent,
@@ -118,7 +119,7 @@ import {
     {
       title: "Frontend Intern",
       company_name: "Aadi Foundation",
-      icon: starbucks,
+      icon: aadi,
       iconBg: "#383E56",
       date: "June 2024 - Present",
       points: [
